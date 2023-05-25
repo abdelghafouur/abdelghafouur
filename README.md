@@ -18,7 +18,9 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+I am a passionate Full-stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco, continually working to improve my skills and strive to become the best in the field. With over 1 year of experience in full-stack web development, I have gained valuable expertise in this domain. I have a deep passion for the logic and structure of coding, always aiming to write elegant and efficient code.
+
 - 📚 Lifelong learner embracing new technologies.
 
 - 💡 Coding enthusiast.
