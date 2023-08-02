@@ -61,5 +61,5 @@ I am a passionate Full-stack web developer <img src="https://media.giphy.com/med
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelghafouur&show_icons=true&theme=radical)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghafouur&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghafouur&layout=compact)
 
