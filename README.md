@@ -32,7 +32,7 @@ I am a passionate Full-stack web developer <img src="https://media.giphy.com/med
 ### :mailbox:How to reach me:
 -  Website : https://abdelghafouur.me
 -  Twitter : https://twitter.com/abdelghafouuuur
--  Linkedin : https://www.linkedin.com/in/abdelghafourlahnida
+-  Linkedin : https://www.linkedin.com/in/lahnida-abdelghafour
 -  Email : abdelghafourlahnida01@gmail.com
 
 ---
