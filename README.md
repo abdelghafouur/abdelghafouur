@@ -19,21 +19,24 @@
 
 ### :woman_technologist: About Me :
 
-I'm a passionate full-stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with expertise in frontend and backend technologies. Experienced in crafting responsive web applications and dynamic user interfaces. Dedicated to continuous learning and leveraging innovative solutions to solve complex problems.
+My interest in software development started with a simple curiosity: understanding how things work, how systems connect, and how an idea can be transformed into something people use every day.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 📚 Lifelong learner embracing new technologies.
+I enjoy building software that solves real problems, whether that means developing business applications, automating repetitive tasks, improving existing products, or creating entirely new solutions.
 
-- 💡 Coding enthusiast.
+Over the years, I've worked across the full stack, from designing databases and APIs to building user interfaces and deploying applications. What keeps me engaged is the opportunity to learn, tackle new challenges, and turn complex requirements into practical solutions.
 
-- 🎯 Passionate about problem-solving.
+I believe good software starts with understanding the problem before writing the solution. Clean code, maintainable systems, and thoughtful design are principles I try to bring to every project. I enjoy debugging, optimizing workflows, and finding ways to make systems simpler and more efficient.
+
+I'm currently focused on growing as a software engineer, contributing to meaningful products, and collaborating with teams that value quality, ownership, and continuous improvement.
+Always open to connecting with developers, engineers, recruiters, and teams working on interesting challenges.
 
 ---
 
 ### :mailbox:How to reach me:
--  Website : https://abdelghafouur.github.io/
+-  Website : https://abdelghafourlahnida.vercel.app/
 -  Twitter : https://twitter.com/abdelghafouuuur
 -  Linkedin : https://www.linkedin.com/in/abdelghafourlahnida1
--  Email : abdelghafourlahnida01@gmail.com
+-  Email : abdelghafourlahnida@gmail.com
 
 ---
 
